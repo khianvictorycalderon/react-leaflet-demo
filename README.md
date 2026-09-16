@@ -6,6 +6,10 @@ An open source map API library.
 
 ## Setup Installation:
 1. Run `npm install`
+2. Create an `.env` file that contains:
+    ```env
+    VITE_LEAFLET_API_KEY=<your-carto-api-key>
+    ```
 2. Run `npm run dev`
 
 ---
